@@ -74,7 +74,6 @@ nav ul li:hover{
     perspective: 600;
     position: relative;
     width: 250px;
-    /* padding: 20px; */
     margin: 20px;
   }
   .card {
@@ -83,7 +82,6 @@ nav ul li:hover{
     transform-style: preserve-3d;
     transition: all 1s ease-in-out;
     width: 100%;
-    /* padding: 20px; */
   }
   .card:hover {
     transform: rotateY(180deg);
@@ -104,7 +102,6 @@ nav ul li:hover{
     display: flex;
     height: 300px;
     margin: 20px;
-    /* overflow: hidden; */
 }
 
 .skills-div img{
